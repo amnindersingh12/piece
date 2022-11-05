@@ -2,13 +2,12 @@ PATH
   remote: .
   specs:
     piece (0.1.0)
-      faraday
+      faraday (~> 2.6)
 
 GEM
   remote: https://rubygems.org/
   specs:
     ast (2.4.2)
-    byebug (11.1.3)
     diff-lcs (1.5.0)
     faraday (2.6.0)
       faraday-net_http (>= 2.0, < 3.1)
@@ -55,8 +54,7 @@ PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
-  byebug
-  faraday
+  faraday (~> 2.6)
   piece!
   rake (~> 13.0)
   rspec (~> 3.0)

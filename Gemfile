@@ -9,6 +9,6 @@ gem "rake", "~> 13.0"
 
 gem "rspec", "~> 3.0"
 
-gem "faraday"
+gem "faraday", "~> 2.6"
 
 gem "rubocop", "~> 1.21"
