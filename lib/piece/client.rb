@@ -15,8 +15,8 @@ module Piece
       end
     end
 
-    def hi
-      "Hi i m working so late!~!\u{1F62D}"
+    def inspect
+      "~~~Hi i m working so late!~!\u{1F62D}~~~"
     end
   end
 end

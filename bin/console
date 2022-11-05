@@ -10,7 +10,7 @@ require "piece"
 # (If you use this, don't forget to add pry to your Gemfile!)
 # require "pry"
 # Pry.start
-piece = Piece::Client.new
+@piece = Piece::Client.new
 
 require "irb"
 IRB.start(__FILE__)
