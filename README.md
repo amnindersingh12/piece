@@ -28,15 +28,20 @@ Here is the list of :-
 
     2. Endpoint *FOR NSFW*: `waifu neko trap blowjob`
 
-
+```
 Initialization
 1. piece  = Piece::Client.new
 
 Call the get method with the `type` and `endpoint`.
 
 2. piece.get(`{type}`/`{endpoint}`)
-
+```
 Example Usage:
+
+![](https://github.com/amnindersingh12/piece/blob/master/Kapture%202022-11-06%20at%2002.23.51.gif)
+
+Output: 
+
 ![](https://waifu.now.sh/sfw/happy)
 
 
