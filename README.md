@@ -1,5 +1,5 @@
 # Piece
-This will generate a URL for [SFW](https://en.wiktionary.org/wiki/SFW)/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) [Anime](https://en.wikipedia.org/wiki/Anime) PNG.
+This will generate a URL for [SFW](https://en.wiktionary.org/wiki/SFW) PNG.
 
 Source https://github.com/Waifu-pics/waifu-api
 ## Installation
@@ -19,14 +19,9 @@ Here is the list of :-
 - TYPES :-
     1. `sfw`
 
-    2. `nsfw`
-
 - ENDPOINTS:-
-    1. Endpoint *FOR SFW*: `waifu, neko, shinobu, bully, cry, hug, kiss, lick, pat, smug, highfive, nom, bite, slap,wink, poke, dance, cringe,
+    1. Endpoint *FOR SFW*: `waifu, neko, shinobu, bully, cry, hug, kiss, smug, highfive, nom, bite, slap, wink, poke, dance, cringe,
                 blush, happy`
-
-
-    2. Endpoint *FOR NSFW*: `waifu neko trap blowjob`
 
 ```
 Initialization
